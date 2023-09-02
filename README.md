@@ -1,0 +1,2 @@
+# 1st-repository
+THIS IS MY FIRST GIT REPOSITORY 
